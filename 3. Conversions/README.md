@@ -1,21 +1,18 @@
-# 🔢 Convertisseur Binaire / Décimal
+Convertisseur Binaire / Décimal
 
-Application Windows Forms permettant la conversion automatique entre un nombre en base 10 (décimal) et un nombre en base 2 (binaire).
+A Windows Forms application that automatically converts numbers between decimal (base 10) and binary (base 2).
 
-## 📝 Fonctionnalités
+Features:
+- Enter a decimal number → immediate conversion to binary
+- Enter a binary number → automatic conversion to decimal, with input validation
+- Basic error handling to prevent invalid conversions
 
-- Saisie d’un nombre **décimal** → conversion immédiate vers **binaire**.
-- Saisie d’un nombre **binaire** → conversion automatique vers **décimal**, avec vérification de validité.
-- Gestion d'erreurs simples pour éviter les conversions incorrectes.
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- IDE: Visual Studio
 
-## 🛠️ Technologies utilisées
-
-- Langage : C#
-- Interface : Windows Forms (WinForms)
-- IDE : Visual Studio
-
-## 🚀 Lancement du projet
-
-1. Cloner ou télécharger ce projet.
-2. Ouvrir le fichier `conversions.sln` avec **Visual Studio**.
-3. Lancer l’application en cliquant sur **"Démarrer"**.
+Getting Started:
+1. Clone or download this repository.
+2. Open the 'conversions.sln' file using Visual Studio.
+3. Click 'Start' to run the application.
