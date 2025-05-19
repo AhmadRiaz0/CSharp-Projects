@@ -1,73 +1,73 @@
-# PolymorphismeAbstraction
+# PolymorphismAbstraction
 
 ## Description
 
-Ce projet est une application Windows Forms en C# qui démontre les concepts de **polymorphisme** et **abstraction** en programmation orientée objet.
+This project is a C# Windows Forms application that demonstrates the concepts of **polymorphism** and **abstraction** in object-oriented programming.
 
-Le programme permet de gérer une liste de personnages de types différents (`Humain` et `Xmen`), tous dérivés d’une classe abstraite `Personnage`.
+The program manages a list of characters of different types (`Human` and `Xmen`), all derived from an abstract class `Character`.
 
-Chaque personnage possède un **login** (nom) et des caractéristiques propres à son type :  
-- `Humain` a un attribut `vie` (int).  
-- `Xmen` a un attribut `pouvoir` (string).
-
----
-
-## Fonctionnalités principales
-
-- Ajouter un personnage humain ou un xmen via l’interface utilisateur.  
-- Gestion dynamique des propriétés spécifiques (vie ou pouvoir) selon le type choisi.  
-- Affichage des informations des personnages avec polymorphisme (méthode `info()` redéfinie dans chaque sous-classe).  
-- Mise à jour de la liste affichée avec les détails de chaque personnage.
+Each character has a **login** (name) and specific attributes depending on its type:  
+- `Human` has an attribute `life` (int).  
+- `Xmen` has an attribute `power` (string).
 
 ---
 
-## Structure du projet
+## Main Features
 
-- **Classe abstraite `Personnage`** :  
-  - Attribut protégé `login` (string).  
-  - Méthode abstraite `info()` à implémenter dans les sous-classes.
-
-- **Sous-classe `Humain`** :  
-  - Attribut privé `vie` (int).  
-  - Constructeurs avec ou sans login.  
-  - Redéfinition de la méthode `info()` pour afficher `login` et `vie`.
-
-- **Sous-classe `Xmen`** :  
-  - Attribut privé `pouvoir` (string).  
-  - Constructeurs avec ou sans login.  
-  - Redéfinition de la méthode `info()` pour afficher `login` et `pouvoir`.
-
-- **Formulaire `Form1`** :  
-  - Gestion de l’interface utilisateur (boutons, liste, champs texte, radiobuttons, numericUpDown, comboBox).  
-  - Ajout de personnages dans un tableau `Personnage[]`.  
-  - Mise à jour de la liste affichée.  
-  - Gestion de la visibilité des contrôles selon le type de personnage choisi.
+- Add a human or xmen character via the user interface.  
+- Dynamic handling of specific properties (life or power) based on the selected type.  
+- Display character information using polymorphism (the `info()` method is overridden in each subclass).  
+- Update the displayed list with details of each character.
 
 ---
 
-## Utilisation
+## Project Structure
 
-1. Démarrer l’application.  
-2. Choisir le type de personnage (Humain ou Xmen) via les boutons radio.  
-3. Saisir un login (optionnel).  
-4. Si Humain, définir la vie via le contrôle numérique.  
-   Si Xmen, choisir un pouvoir dans la liste déroulante.  
-5. Cliquer sur **Ajouter** pour créer et ajouter le personnage à la liste.  
-6. La liste s’actualise automatiquement avec les informations des personnages.
+- **Abstract class `Character`**:  
+  - Protected attribute `login` (string).  
+  - Abstract method `info()` to be implemented in subclasses.
+
+- **Subclass `Human`**:  
+  - Private attribute `life` (int).  
+  - Constructors with or without login.  
+  - Override of `info()` method to display `login` and `life`.
+
+- **Subclass `Xmen`**:  
+  - Private attribute `power` (string).  
+  - Constructors with or without login.  
+  - Override of `info()` method to display `login` and `power`.
+
+- **Form `Form1`**:  
+  - Manages the user interface (buttons, list, text fields, radio buttons, numericUpDown, comboBox).  
+  - Adds characters into a `Character[]` array.  
+  - Updates the displayed list.  
+  - Manages visibility of controls depending on the selected character type.
 
 ---
 
-## Remarques
+## Usage
 
-- Le tableau `lesPersonnages` est limité à 100 entrées.  
-- L’attribut `login` est optionnel. Si vide, le personnage est créé avec un login par défaut.  
-- La méthode `info()` illustre bien le polymorphisme : la même méthode renvoie une information différente selon la sous-classe.
+1. Start the application.  
+2. Choose the character type (Human or Xmen) via radio buttons.  
+3. Enter a login (optional).  
+4. If Human, set life using the numeric control.  
+   If Xmen, select a power from the dropdown list.  
+5. Click **Add** to create and add the character to the list.  
+6. The list updates automatically with character details.
 
 ---
 
-## Améliorations possibles
+## Notes
 
-- Remplacer le tableau par une collection dynamique (`List<Personnage>`).  
-- Ajouter la suppression ou la modification des personnages.  
-- Validation avancée des entrées utilisateur.  
-- Sauvegarde des personnages dans un fichier.
+- The `characters` array is limited to 100 entries.  
+- The `login` attribute is optional. If left empty, a default login is assigned.  
+- The `info()` method illustrates polymorphism well: the same method returns different information depending on the subclass.
+
+---
+
+## Possible Improvements
+
+- Replace the fixed array with a dynamic collection (`List<Character>`).  
+- Add character deletion or modification features.  
+- Advanced input validation.  
+- Save characters to a file.
