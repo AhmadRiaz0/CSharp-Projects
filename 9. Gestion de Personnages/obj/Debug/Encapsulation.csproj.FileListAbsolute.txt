@@ -1,0 +1,10 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\bin\Debug\Encapsulation.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\Encapsulation\obj\Debug\Encapsulation.pdb

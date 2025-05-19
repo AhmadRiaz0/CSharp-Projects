@@ -1,0 +1,20 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\bin\Debug\manipulationDeListe.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\bin\Debug\manipulationDeListe.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\bin\Debug\manipulationDeListe.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.Form1.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\manipulationDeListe\obj\Debug\manipulationDeListe.pdb
+D:\Project-C#\6.ManipulationDeListe\bin\Debug\manipulationDeListe.exe.config
+D:\Project-C#\6.ManipulationDeListe\bin\Debug\manipulationDeListe.exe
+D:\Project-C#\6.ManipulationDeListe\bin\Debug\manipulationDeListe.pdb
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.csproj.AssemblyReference.cache
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.Form1.resources
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.Properties.Resources.resources
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.csproj.GenerateResource.cache
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.csproj.CoreCompileInputs.cache
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.exe
+D:\Project-C#\6.ManipulationDeListe\obj\Debug\manipulationDeListe.pdb

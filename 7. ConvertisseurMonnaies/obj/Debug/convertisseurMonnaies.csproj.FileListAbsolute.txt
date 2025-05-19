@@ -1,0 +1,20 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\bin\Debug\convertisseurMonnaies.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\bin\Debug\convertisseurMonnaies.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\bin\Debug\convertisseurMonnaies.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.Form1.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\convertisseurMonnaies\obj\Debug\convertisseurMonnaies.pdb
+D:\Project-C#\7. ConvertisseurMonnaies\bin\Debug\convertisseurMonnaies.exe.config
+D:\Project-C#\7. ConvertisseurMonnaies\bin\Debug\convertisseurMonnaies.exe
+D:\Project-C#\7. ConvertisseurMonnaies\bin\Debug\convertisseurMonnaies.pdb
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.AssemblyReference.cache
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.Form1.resources
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.Properties.Resources.resources
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.GenerateResource.cache
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.csproj.CoreCompileInputs.cache
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.exe
+D:\Project-C#\7. ConvertisseurMonnaies\obj\Debug\convertisseurMonnaies.pdb

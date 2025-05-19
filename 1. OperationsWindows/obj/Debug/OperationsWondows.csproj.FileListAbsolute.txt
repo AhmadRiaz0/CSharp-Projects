@@ -1,0 +1,10 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\bin\Debug\OperationsWondows.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\bin\Debug\OperationsWondows.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\bin\Debug\OperationsWondows.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.Form1.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\OperationsWondows\obj\Debug\OperationsWondows.pdb

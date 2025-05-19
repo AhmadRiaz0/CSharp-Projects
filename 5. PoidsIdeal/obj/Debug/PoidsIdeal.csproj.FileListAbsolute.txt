@@ -1,0 +1,10 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\bin\Debug\PoidsIdeal.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\bin\Debug\PoidsIdeal.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\bin\Debug\PoidsIdeal.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.CREFF.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\PoidsIdeal\obj\Debug\PoidsIdeal.pdb

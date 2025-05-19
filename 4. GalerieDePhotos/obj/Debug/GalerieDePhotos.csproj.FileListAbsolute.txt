@@ -1,0 +1,10 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\bin\Debug\GalerieDePhotos.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\bin\Debug\GalerieDePhotos.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\bin\Debug\GalerieDePhotos.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.Form1.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\GalerieDePhotos\obj\Debug\GalerieDePhotos.pdb

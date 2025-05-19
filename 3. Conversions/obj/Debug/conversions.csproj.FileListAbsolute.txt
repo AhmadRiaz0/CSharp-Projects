@@ -1,0 +1,10 @@
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\bin\Debug\conversions.exe.config
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\bin\Debug\conversions.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\bin\Debug\conversions.pdb
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.csproj.AssemblyReference.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.FormConvertisseur.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.Properties.Resources.resources
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.csproj.GenerateResource.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.csproj.CoreCompileInputs.cache
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.exe
+D:\Bases de la programmation\Bases de la programmation - Projet\conversions\obj\Debug\conversions.pdb
