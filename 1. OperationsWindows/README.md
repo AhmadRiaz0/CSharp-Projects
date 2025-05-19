@@ -1,24 +1,19 @@
-# 🧮 OperationsWindows
+🧮 OperationsWindows
+A simple Windows Forms application that performs basic arithmetic operations.
 
-Application Windows Forms simple permettant d'effectuer des opérations arithmétiques de base.
+📝 Features
+Addition of two numeric values
+Multiplication of two numeric values
+Reset input fields
+Close the application
 
-## 📝 Fonctionnalités
+🛠️ Technologies Used
+Language: C#
+UI Framework: Windows Forms (WinForms)
+IDE: Visual Studio
 
-- Addition de deux valeurs numériques.
-- Multiplication de deux valeurs numériques.
-- Réinitialisation des champs de saisie.
-- Fermeture de l'application.
-
-## 🛠️ Technologies utilisées
-
-- Langage : C#
-- Interface : Windows Forms (WinForms)
-- IDE : Visual Studio
-
-## 🚀 Lancement du projet
-
-1. Cloner ou télécharger ce projet.
-2. Ouvrir le fichier `OperationsWindows.sln` avec **Visual Studio**.
-3. Cliquer sur **"Démarrer"** pour exécuter l'application.
-
+🚀 Getting Started
+Clone or download this repository.
+Open the OperationsWindows.sln file using Visual Studio.
+Click "Start" to run the application.
 
