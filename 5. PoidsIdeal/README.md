@@ -1,25 +1,25 @@
-# ⚖️ Poids Idéal - Méthode de Creff
+Poids Idéal - Méthode de Creff
 
-Application Windows Forms permettant de calculer le poids idéal d’un utilisateur selon **la méthode de Creff**, en fonction de sa **taille**, **âge** et **morphologie**.
+A Windows Forms application that calculates a user's ideal weight using the Creff method, based on their height, age, and body type.
 
-## 🧮 Fonctionnalités
+Features:
+- Input of height and date of birth
+- Selection of body type: Slender, Normal, or Broad
+- Automatic calculation of ideal weight using the formula:
 
-- Saisie de la **taille** et de la **date de naissance**.
-- Sélection de la **morphologie** : Gracile, Normale, ou Large.
-- Calcul automatique du **poids idéal** selon la formule :
+Ideal weight = (Height - 100 + (Age / 10)) × 0.9  
+Slender: -10%  
+Normal: 0%  
+Broad: +10%  
 
-Poids idéal = (Taille - 100 + (Âge / 10)) × 0.9
-Gracile : -10%
-Normale : 0%
-Large : +10%
-Réinitialisation automatique du poids en cas de modification de la taille, date ou morphologie.
+- Automatic reset of the weight result if height, date of birth, or body type is changed
 
-## 🛠️ Technologies utilisées
-Langage : C#
-Interface : Windows Forms
-IDE : Visual Studio
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- IDE: Visual Studio
 
-## 🚀 Lancement du projet
-Cloner ou télécharger ce projet.
-Ouvrir le fichier PoidsIdeal.sln dans Visual Studio.
-Exécuter le projet avec F5 ou via le bouton Démarrer
+Getting Started:
+1. Clone or download this repository.
+2. Open the 'PoidsIdeal.sln' file using Visual Studio.
+3. Press F5 or click 'Start' to run the application.
