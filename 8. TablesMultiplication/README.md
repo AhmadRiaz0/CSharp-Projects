@@ -1,70 +1,46 @@
-# ✖️🧠 Application "Tables de Multiplication"
+Application "Multiplication Tables"
 
-Cette application pédagogique Windows Forms permet de tester ses connaissances sur les **tables de multiplication** via une série de 20 questions générées aléatoirement.
+An educational Windows Forms application that tests knowledge of multiplication tables through a series of 20 randomly generated questions.
 
----
+Objective:
+Allow users (students or anyone wishing to practice) to train by answering random questions on simple multiplications (from 1 × 1 to 9 × 9).
 
-## 🎯 Objectif
+Features:
+- Random question generation (between 1 × 1 and 9 × 9)
+- Answer input with immediate feedback (green for correct, red for incorrect)
+- Real-time score tracking
+- Display of the correct answer if the user is wrong
+- Ability to restart the test at any time
+- "Next" button to move to the following question
 
-Permettre à un utilisateur (élève, étudiant, ou toute personne souhaitant réviser) de s'entraîner en répondant à des questions aléatoires portant sur les multiplications simples (de 1 à 9).
+Test Flow:
+1. A random multiplication question is generated.
+2. The user enters their answer.
+3. Upon validation (Enter key), the app:
+   - Checks the answer
+   - Shows the correct answer if necessary
+   - Updates the score and progress
+4. After 20 questions, the "Restart" button appears.
 
----
+Progress Tracking:
+- Current score: number of correct answers
+- Total questions asked: visible counter
+- Immediate feedback by color:
+  - ✅ Green: correct answer
+  - ❌ Red: wrong answer + correction displayed
 
-## ⚙️ Fonctionnalités
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- IDE: Visual Studio
 
-- 🔢 Génération de questions aléatoires (entre 1 × 1 et 9 × 9)
-- 🎯 Saisie de la réponse avec retour immédiat (vert pour correct, rouge pour incorrect)
-- 📈 Suivi de la **note** en temps réel
-- ✅ Affichage de la **bonne réponse** en cas d’erreur
-- 🔁 Possibilité de **relancer un nouveau test** à tout moment
-- ➡️ Bouton **"Suivante"** pour passer à la question suivante
+How to Run:
+1. Open the 'tablesMultiplication.sln' project in Visual Studio.
+2. Click 'Start' (F5).
+3. Start practicing!
 
----
-
-## 🧠 Déroulement du test
-
-1. Une multiplication aléatoire est générée.
-2. L'utilisateur saisit sa réponse dans le champ prévu.
-3. À la validation (`Entrée`), l’application :
-   - Vérifie la réponse.
-   - Affiche la bonne réponse si nécessaire.
-   - Met à jour la note et l’avancement.
-4. Après 20 questions, le bouton "Recommencer" prend le relais.
-
----
-
-## 📊 Suivi de progression
-
-- **Note actuelle** : nombre de bonnes réponses
-- **Total de questions posées** : compteur visible
-- Feedback immédiat par couleur :
-  - ✅ Vert : bonne réponse
-  - ❌ Rouge : mauvaise réponse + correction affichée
-
----
-
-## 🧰 Technologies utilisées
-
-- 👨‍💻 Langage : **C#**
-- 🖥️ Framework : **Windows Forms**
-- 🧰 IDE : **Visual Studio**
-
----
-
-## ▶️ Lancer l'application
-
-1. Ouvre le projet `tablesMultiplication.sln` dans Visual Studio.
-2. Clique sur **Démarrer** (`F5`).
-3. Commence à t’entraîner !
-
----
-
-## ✨ Améliorations possibles
-
-- Ajout d’un **minuteur** par question
-- **Historique** des scores
-- Sélection de **niveaux de difficulté**
-- Affichage d’un **bilan final** plus détaillé
-
-
-
+Possible Improvements:
+- Add a timer per question
+- Score history
+- Difficulty level selection
+- More detailed final report
