@@ -1,22 +1,19 @@
-# 🖼️ Galerie de Photos
+Galerie de Photos
 
-Application Windows Forms permettant de naviguer dans un dossier contenant des fichiers images et d'afficher les photos sélectionnées avec la possibilité de les faire pivoter.
+A Windows Forms application that allows browsing a folder containing image files and displaying selected photos with rotation functionality.
 
-## 📝 Fonctionnalités
+Features:
+- Select a folder containing image files
+- Dynamically display the files from the folder in a list
+- Display the selected photo if it is a valid image
+- Rotate the displayed image (90° to the right)
 
-- 📂 Sélection d’un dossier contenant des fichiers images.
-- 🗂️ Affichage dynamique des fichiers du dossier dans une liste.
-- 🖼️ Affichage de la photo sélectionnée si c'est une image valide.
-- 🔁 Rotation de l'image affichée (90° à droite).
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- IDE: Visual Studio
 
-## 🛠️ Technologies utilisées
-
-- Langage : C#
-- Interface : Windows Forms (WinForms)
-- IDE : Visual Studio
-
-## 🚀 Lancement du projet
-
-1. Cloner ou télécharger ce projet.
-2. Ouvrir le fichier `GalerieDePhotos.sln` avec **Visual Studio**.
-3. Lancer l’application en cliquant sur **"Démarrer"**.
+Getting Started:
+1. Clone or download this repository.
+2. Open the 'GalerieDePhotos.sln' file using Visual Studio.
+3. Click 'Start' to run the application.
