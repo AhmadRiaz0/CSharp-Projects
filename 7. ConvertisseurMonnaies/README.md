@@ -1,59 +1,42 @@
-# 💱 Application "Convertisseur de Monnaies"
+Application "Currency Converter"
 
-Cette application Windows Forms permet de convertir un montant saisi en **euros** vers une **monnaie étrangère** choisie dans une liste. Elle repose sur un tableau de structures représentant plusieurs devises avec leurs noms, taux de conversion et symboles.
+A Windows Forms application that converts an entered amount in euros to a selected foreign currency. It uses an array of structures representing multiple currencies with their names, exchange rates, and symbols.
 
----
+Main Features:
+- Input an amount in euros
+- Select a foreign currency from a dropdown list
+- Automatic conversion of the amount from euros to the selected currency
+- Display of:
+  - the exchange rate
+  - the currency symbol
+  - the converted result
 
-## ⚙️ Fonctionnalités principales
+Supported Currencies:
 
-- 💶 Saisie d’un montant en euros
-- 🌐 Sélection d’une devise étrangère dans une liste déroulante
-- 🔁 Conversion automatique du montant en euros vers la devise choisie
-- 💹 Affichage :
-  - du taux de change
-  - du symbole monétaire
-  - du résultat converti
+| Currency              | Rate (per €1)   | Symbol |
+|-----------------------|-----------------|--------|
+| US Dollar             | 1.0502          | $      |
+| Swiss Franc           | 0.9376          | CHF    |
+| Australian Dollar     | 1.6526          | $      |
+| Pakistani Rupee       | 291.6432        | Rs     |
+| Saudi Riyal           | 3.9417          | ﷼      |
+| British Pound         | 0.8321          | £      |
 
----
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- IDE: Visual Studio
 
-## 🌍 Devises intégrées
+How to Use:
+1. Open the 'convertisseurMonnaies.sln' project in Visual Studio.
+2. Click 'Start' (or press F5) to launch the application.
+3. Enter an amount in euros into the input field.
+4. Select a currency from the dropdown list.
+5. The converted amount, exchange rate, and symbol will be displayed automatically.
 
-| Monnaie               | Taux (pour 1 €) | Symbole |
-|-----------------------|-----------------|---------|
-| Dollar américain      | 1.0502          | $       |
-| Franc suisse          | 0.9376          | CHF     |
-| Dollar australien     | 1.6526          | $       |
-| Roupie pakistanaise   | 291.6432        | Rs      |
-| Riyal saoudien        | 3.9417          | ﷼       |
-| Livre sterling        | 0.8321          | £       |
-
----
-
-## 🧰 Technologies utilisées
-
-- 👨‍💻 Langage : **C#**
-- 🖥️ Framework : **Windows Forms**
-- 🧰 IDE : **Visual Studio**
-
----
-
-## ▶️ Utilisation
-
-1. Ouvre le projet `convertisseurMonnaies.sln` avec **Visual Studio**.
-2. Clique sur **Démarrer** (`F5`) pour lancer l’application.
-3. Saisis un montant en euros dans le champ prévu.
-4. Choisis une devise dans la liste déroulante.
-5. Le montant converti, le taux de change et le symbole s’afficheront automatiquement.
-
----
-
-## 🧠 Logique de conversion
-
-```csharp
+Conversion Logic:
 float euro = float.Parse(txtEuro.Text);
 float conversion = euro * tMonnaie[cboMonnaie.SelectedIndex].valeur;
 
----
-
-## 🛡️ Gestion des erreurs
-Si la saisie du montant en euro est invalide (non numérique), le champ est vidé et le curseur est repositionné automatiquement.
+Error Handling:
+If the input amount in euros is invalid (non-numeric), the field is cleared and the cursor is automatically repositioned.
