@@ -1,47 +1,32 @@
-# 🛡️ Projet Encapsulation - Gestion de Personnages
+Project "Encapsulation - Character Management"
 
-Cette application Windows Forms illustre le concept d’**encapsulation** en programmation orientée objet à travers une gestion simple de personnages.
+A Windows Forms application demonstrating the concept of **encapsulation** in object-oriented programming through simple character management.
 
----
+Objective:
+- Learn to **hide** sensitive data using private attributes.
+- Use **GET/SET methods** to access and modify this data.
+- Handle a dynamic array of characters with encapsulated properties.
 
-## 📚 Objectif
+Features:
+- Create a character with a user-entered login.
+- Each character has a **life** value randomly initialized between 0 and 4.
+- Display characters with their login and life in a list.
+- Select a character from the list to modify their life using a numeric control.
+- Automatically indicate the character with the **maximum life**.
+- Display a specific message if a character is **dead** (life = 0).
 
-- Apprendre à **cacher** les données sensibles via des attributs privés.
-- Utiliser des **méthodes GET/SET** pour accéder et modifier ces données.
-- Manipuler un tableau dynamique de personnages avec leurs propriétés encapsulées.
+Technologies:
+- Language: C#
+- Platform: Windows Forms (.NET Framework)
+- Concepts: Encapsulation, classes, private properties, collections
 
----
+Usage:
+1. Enter a login in the input field and press **Enter** to create a character.
+2. The character is added to the list with their life displayed.
+3. Select a character from the list to modify their life using the numeric control.
+4. Observe real-time updates of information and the character with the highest life.
 
-## 🧩 Fonctionnalités
-
-- Création d’un personnage avec un login saisi par l’utilisateur.
-- Chaque personnage possède une **vie** initialisée aléatoirement entre 0 et 4.
-- Affichage des personnages avec leur login et leur vie dans une liste.
-- Sélection d’un personnage dans la liste pour modifier sa vie via un contrôle numérique.
-- Indication automatique du personnage ayant la **vie maximale**.
-- Affichage d’un message spécifique si un personnage est **mort** (vie = 0).
-
----
-
-## 🛠️ Technologies
-
-- Langage : C#
-- Plateforme : Windows Forms (.NET Framework)
-- Concepts : Encapsulation, classes, propriétés privées, collections
-
----
-
-## ⚙️ Utilisation
-
-1. Saisir un login dans le champ prévu et appuyer sur **Entrée** pour créer un personnage.
-2. Le personnage est ajouté à la liste avec sa vie affichée.
-3. Sélectionner un personnage dans la liste pour modifier sa vie avec la zone numérique.
-4. Observer la mise à jour en temps réel des informations et du personnage avec la vie maximale.
-
----
-
-## 💡 Concepts clés
-
-- **Encapsulation** : les attributs `login` et `vie` sont privés et accessibles uniquement via méthodes publiques.
-- **Tableau d’objets** : stockage des personnages dans un tableau.
-- **Gestion de l’interface graphique** : mise à jour dynamique des contrôles selon les actions utilisateur.
+Key Concepts:
+- **Encapsulation**: the `login` and `life` attributes are private and accessible only via public methods.
+- **Object array**: storing characters in an array.
+- **GUI management**: dynamic update of controls based on user actions.
