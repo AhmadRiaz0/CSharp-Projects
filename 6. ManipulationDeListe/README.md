@@ -1,53 +1,36 @@
-# 📁 Application "Manipulation de Liste"
+Application "Manipulation de Liste"
 
-Cette application Windows Forms permet à l'utilisateur de **sélectionner un dossier**, d'en **afficher les fichiers**, puis de **copier** certains ou tous ces fichiers dans une **liste de sélection**. L'utilisateur peut ensuite **ajouter, supprimer ou vider** la liste de sélection selon ses besoins.
+A Windows Forms application that allows users to select a folder, display its files, and copy some or all of them into a selection list. The user can then add, remove, or clear items from the selection as needed.
 
----
+Main Features:
+- Select a folder from the disk
+- Display all files in the selected folder
+- Add one or all files to a selection list
+- Remove an item from the selection list
+- Clear the entire selection
+- Automatically update file counters
 
-## ⚙️ Fonctionnalités principales
+User Interface:
+- lstFichier: list displaying files from the selected folder
+- lstSelection: list displaying the user's selected files
+- btnRechercher: button to choose a folder using a dialog box
+- >> / >: buttons to add all files or a selected file to the selection list
+- DEL: button to remove a file from the selection
+- Clear All: button to clear the selection list
+- lblNbFichiers / lblNbSelection: labels showing the number of files in each list
 
-- 📂 Sélection d’un dossier sur le disque
-- 📝 Affichage de tous les fichiers contenus dans ce dossier
-- ➡️ Ajout d’un ou de tous les fichiers à une liste de sélection
-- ❌ Suppression d’un élément de la liste de sélection
-- 🧹 Effacement complet de la sélection
-- 🔄 Mise à jour automatique des compteurs de fichiers
+Technologies Used:
+- Language: C#
+- UI Framework: Windows Forms (WinForms)
+- Recommended IDE: Visual Studio
 
----
+How to Use:
+1. Open the 'manipulationDeListe.sln' project in Visual Studio.
+2. Click 'Start' or press F5 to run the application.
+3. Click 'Rechercher' to choose a folder containing files.
+4. Use the arrow buttons to add files to your selection.
+5. Remove or clear the selection as needed.
 
-## 🖼️ Interface utilisateur
-
-- **lstFichier** : liste contenant les fichiers du dossier sélectionné
-- **lstSelection** : liste contenant les fichiers sélectionnés par l'utilisateur
-- **btnRechercher** : bouton pour choisir un dossier à l’aide d’une boîte de dialogue
-- **>> / >** : boutons pour ajouter tous les fichiers ou un fichier sélectionné à la liste de sélection
-- **DEL** : bouton pour supprimer un fichier de la sélection
-- **Clear All** : bouton pour vider la liste de sélection
-- **lblNbFichiers** / **lblNbSelection** : étiquettes indiquant le nombre de fichiers présents dans chaque liste
-
----
-
-## 🛠️ Technologies utilisées
-
-- 👨‍💻 Langage : **C#**
-- 🖥️ Framework : **Windows Forms**
-- 🧰 IDE recommandé : **Visual Studio**
-
----
-
-## ▶️ Comment l’utiliser
-
-1. Ouvre le projet `manipulationDeListe.sln` avec **Visual Studio**.
-2. Clique sur **Démarrer** ou appuie sur `F5` pour exécuter l'application.
-3. Clique sur **Rechercher** pour choisir un dossier contenant des fichiers.
-4. Utilise les flèches pour ajouter des fichiers à ta sélection.
-5. Supprime ou efface ta sélection selon tes besoins.
-
----
-
-## 🔒 Contraintes
-
-- Aucune duplication n’est autorisée dans la liste de sélection.
-- Le nombre de fichiers est automatiquement mis à jour à chaque action.
-
-
+Constraints:
+- No duplicate files are allowed in the selection list.
+- File counters are updated automatically after each action.
